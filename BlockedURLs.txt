@@ -27,5 +27,3 @@ metrics2.data.hicloud.com
 metrics.data.hicloud.com
 upbeatbut.com
 .upbeatbut.com
-bc.googleusercontent.com
-.bc.googleusercontent.com

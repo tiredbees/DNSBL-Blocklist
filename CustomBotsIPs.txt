@@ -1,4 +1,4 @@
-34.142.0.0/16 #BC Google User Content dot Com
+34.142.0.0/16 # BC Google User Content dot Com
 35.205.0.0/16
 35.231.0.0/17
 34.23.0.0/16
@@ -45,3 +45,4 @@
 34.139.0.0/16
 104.198.0.0/16
 136.66.0.0/16
+35.202.0.0/16 # Google Kubernetes Engine Clusters

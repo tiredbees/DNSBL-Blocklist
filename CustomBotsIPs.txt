@@ -48,3 +48,4 @@
 34.141.0.0/16
 35.202.0.0/16 # Google Kubernetes Engine Clusters
 34.56.0.0/16
+185.8.107.0/24 # UAB Cherry Servers

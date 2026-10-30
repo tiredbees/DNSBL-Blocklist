@@ -69,3 +69,4 @@
 34.7.0.0/16
 104.196.0.0/16
 185.8.107.0/24 # UAB Cherry Servers
+158.101.0.0/16 # Oracle Public Cloud
